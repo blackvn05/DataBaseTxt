@@ -5524,4 +5524,516 @@ Tài khoản 33191 là tài khoản trung gian dùng để:|Sử dụng cho nghi
 Tài khoản 33193 sử dụng cho nghiệp vụ nào?|Sử dụng cho nghiệp vụ bù trừ công nợ phải thu, phải trả hoặc trung gian giữa CM và AR, trung gian giữa AP và CM trong các trường hợp không xác định được TKTG sử dụng
 Trình tự các bước thực hiện nghiệp vụ thu tiền|CM > Receipt > EVN Receipt
 Trong màn hình hiểu thị bút toán (web), phần mô tả tài khoản phải trả có tên là gì?|Liability
+Khi đang làm việc với PowerPoint, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ,...) của Slide, ta thực hiện :|View - Slide Layout
+Khi đang nhập liệu trong Calc của OpenOffice, phím tắt nào sau đây sẽ giúp bạn xuống dòng ngay trong cùng một ô:|Ctrl + Enter
+Phần mềm CMIS sử dụng hệ quản trị cơ dữ liệu nào?|Oracle Server
+Trong khi soạn thảo văn bản, nếu muốn xuống dòng nhưng chưa kết thúc một đoạn (Paragraph) Thì phải làm thế nào?|Bấm tổ hợp phím Shift - Enter
+Trang web tiếp nhận xử lý yêu cầu của khách hàng có địa chỉ như thế nào?|http://crm.npc.com.vn
+Khi có chấm chéo giữa các TNV trong điện lực đến khi quyết toán trong cmis bị lệch so với số giao thu ban đầu dẫn đến không quyết toán được?|Do dùng sai chức năng: Có hành thu và không hành thu
+Trong MS Word 2003, muốn sử dụng chức năng sửa lỗi và gõ tắt, ta chọn:|Tools - AutoCorrect Options...
+Để in danh sách điểm đo có nhập chỉ số Pmax trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách điểm đo có nhập Pmax
+Trong chế độ tạo bảng (Table) của phần mềm Winword, muốn tách một ô thành nhiều ô, ta thực hiện:|Table - Split Cells
+Trong những file có phần mở rộng như sau, loại file nào KHÔNG thể chạy được bằng cách gõ lệnh trong cửa sổ lệnh (command prompt)?|DLL
+Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối?|$B$1:$D$10
+Tổ hợp phím nào sau đây dùng để chèn dấu ngắt trang trong Microsoft Word?|Ctrl + Enter
+Khi soạn thảo văn bản, để khai báo thời gian tự lưu văn bản, ta chọn:|Tools - Option... Trong thẻ Save, đánh dấu chọn mục Save AutoRecover info every
+Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính ?|Ctrl+Home
+Khi đang gõ văn bản trong OpenOffice Write, mỗi lần ta nhấn tổ hợp phím Ctrl + Enter là:|Sang một trang mới
+Hãy chọn phương án ghép đúng : Lĩnh vực tin học|Nghiên cứu cấu trúc, tính chất chung của thông tin, phương pháp thu thập, xử lý và truyền thông tin.
+Hãy chọn phương án ghép đúng . Unicode là bộ mã|Bộ mã chuẩn quốc tế
+Đơn vị đo tốc độ đĩa cứng là gì?|Rpm
+Điều kiện thực hiện chức năng Xác nhận số liệu hóa đơn trên chương trình CMIS3.0 là:|Sổ GCS đã được tính hóa đơn
+Điều gì xảy ra khi bạn nhấp đúp chuột vào một file có phần mở rộng là .REG?|Thông tin của nó sẽ được kết hợp và ghi vào Registry.
+Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Excel thì|Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái
+Bộ nhớ ảo (Virtual memory) thực hiện chức năng nào sau đây?|Sử dụng ổ cứng làm bộ nhớ mở rộng
+Bạn có thể cắm thiết bị nào sau đây vào hệ thống máy tính thông qua khe cắm AGP?|Card màn hình
+Ai đó đặt mật khẩu BIOS cho máy tính và quên mất mật khẩu. Để sử dụng máy tính, cần phải?|Tạm thời gỡ bỏ pin CMOS
+Yêu cầu tối thiểu về RAM của Windows XP là bao nhiêu?|64 MB
+Yêu cầu tối thiểu về bộ vi xử lý của Windows XP là bao nhiêu?|B. 233 MHz
+Với định dang *.DOCX, phiên bản word có thể đọc được|Từ phiên bản Microsoft Word 2007 trở lên
+Virus máy tính thường lan truyền qua con đường nào?|Tất cả các ý trên
+Virus máy tính không thể lây lan qua|Mạng máy tính
+Việc phân chia module trong chương trình có cấu trúc module do cái gì thực hiện?|Người lập trình
+Vì sao việc mở các tập tin đính kèm theo thư điện tử lại nguy hiểm|Vì các tệp đính kèm thư điện tử là nguồn lây nhiễm của virus máy tính
+UPS (Uninterruptible Power Supply) là thiết bị dùng để|Làm nguồn thay thế tạm thời trong thời gian ngắn cho máy tính khi mất nguồn điện chính
+Unix và Linux là ?|Hệ điều hành đa nhiệm nhiều người dùng
+Trường hợp cần sửa chỉ số đầu kỳ của điểm đo người dùng sử dụng chức năng nào trên chương trình CMIS3.0?|Phân hệ Ghi chỉ số và lập hóa đơn -> Tiện ích -> Thay đổi chỉ số bắt đầu
+Trong Word, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải, ...; ta có thể khai báo đơn vị đo:|Centimeters
+Trong Word, để soạn thảo một công thức toán học phức tạp, ta thường dùng công cụ:|Microsoft Equation
+Trong WinWord, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về đầu văn bản ?|Ctrl+Home
+Trong Winword, muốn sử dụng chức năng sửa lỗi và gõ tắt, ta chọn :|Tools - AutoCorrect Options
+Trong WinWord, để soạn thảo một công thức toán học phức tạp, ta thường dùng công cụ :|Microsoft Equation
+Trong Winword 2003, muốn sử dụng chức năng sửa lỗi và gõ tắt, ta chọn:|Tools - AutoCorrect Options...
+Trong Windows, khi xoá file hoặc folder thì nó được lưu trong Recycle Bin, muốn xoá hẳn file hoặc folder ta bấm tổ hợp phím nào?|Shift_Del
+Trong Windows Explorer để đánh dấu tất cả các đối tượng ta chọn lệnh:|Ctrl + A
+Trong Windows cho phép đặt tên tối đa dài là … ký tự kể cả khoảng trống|255
+Trong windows 7 khi thực hiện share máy in xuất hiện cửa sổ thông báo lỗi như sau: “ Printer settings could not be saved. Operation could not be completed (error 0x000006d9)”. Hãy chỉ ra nguyên nhân đúng gây ra lỗi này:|Do đã tắt hệ thống tường lửa (Windows Firewall).
+Trong Window7 Để tìm kiếm các tập tin ta chọn lệnh:|Start -> Find
+Trong soft: Acronis Disk Director khi muốn gia tăng chỗ trống cho đĩa cứng bằng cách dồn dữ liệu tại phân vùng đó ta dùng chức năng nào sau đây?|Increase Free Space
+Trong soạn thảo Word 2003, muốn định dạng văn bản theo kiểu danh sách, ta thưc hiên:|Format - Bullets and Numbering
+Trong soạn thảo Word 2003, muốn chuyển đổi giữa hai chế độ gõ là chế độ gõ chèn và chế độ gõ đè, ta dùng phím nào?|Insert
+Trong soạn thảo Winword, muốn định dạng văn bản theo kiểu danh sách, ta thực hiện:|Format - Bullets and Numbering
+Trong soạn thảo Winword, công dụng của tổ hợp phím Ctrl - H là :|Chức năng thay thế trong soạn thảo
+Trong soạn thảo văn bản Word 2003, công dụng của tổ hợp phím Ctrl - H là:|Chức năng tìm kiếm và thay thế
+Trong quá trình POST, một tiếng beep đơn xảy ra điều đó chỉ ra cái gì?|Là sự hoạt động bình thường của PC
+Trong quá trình khởi động máy tính đọc loại bộ nhớ nào để có được cấu hình hệ thống?|Rom
+Trong quá trình cài đặt ERP cần những phần mềm nào?|Firefox Setup 48.0.2; Java 6.45
+Trong OpenOffice Write, để thay đổi kích thước trang giấy ta chọn lệnh trong menu nào?|Format/Page
+Trong những phần mềm sau, phần mềm nào là phần mềm mã nguồn mở?|Phần mềm Oppenoffice, Hệ điều hành Ubutu, Linux
+Trong những hệ điều hành dưới đây đâu là hệ điều hành mã nguồn mở?| Linux, Ubutu
+Trong MS Word 2003, muốn sử dụng chức năng sửa lỗi và gõ tắt, ta chọn:|Tools - AutoCorrect Options...
+Trong MS Powerpoint, lựa chọn nào sau đây dùng để tạo hiệu ứng khi xuất hiện các slide:|Slide Show/Custom Animation
+Trong MS Excel 2007 để lọc dữ liệu tự đông, sau khi chọn khối cần loc, ta chon|Data - Filter - AutoFilter
+Trong môi trường windows bạn có thể chạy cùng lúc|Chạy nhiều trình ứng dụng khác nhau
+Trong Microsoft Word, để tìm các ký tự “( ” và thay thế bằng các ký tự “)” trong toàn bộ tệp văn bản, ta thực hiện:|Vào bảng chọn Edit vào Replace... (hoặc nhấn tổ hợp phím Ctrl + H)
+Trong Microsoft Word, để soạn thảo một công thức toán học phức tạp, ta thường dùng công cụ:|Microsoft Equation
+Trong Microsoft Word 2003 để sao chép định dạng của cụm từ đang chọn ta sử dụng nút lệnh nào sau đây?|(Format Painter)
+Trong máy tính RAM có nghĩa là gì ?|Là bộ nhớ truy xuất ngẫu nhiên
+Trong mạng máy tính, thuật ngữ LAN có ý nghĩa gì?|Mạng cục bộ
+Trong khi soạn thảo văn bản, nếu muốn xuống dòng nhưng chưa kết thúc một đoạn (Paragraph) Thì phải làm thế nào?|Bấm tổ hợp phím Shift - Enter
+Trong khi làm việc với Word, tổ hợp phím tắt nào cho phép chọn tất cả văn bản đang soạn thảo?|Ctrl + A
+Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ:|Dấu bằng (= )
+Trong hệ ỗiều hành WindowsXP, để xem danh sách các tài liệu (tệp) vừa thao tác gần nhất, ta:|Nháy Start vào My Recent Documnents
+Trong hệ điều hành Windows, thuộc tính nào dưới đây dùng đề hiển thị thanh công việc (Taskbar) trên các cửa sổ chương trình?|Keep the Taskbar on top of other Windows
+Trong hệ điều hành Windows, muốn đóng tệp hiện hành nhưng không thoát khỏi chương trình ta:|Nhấn tổ hợp phím Ctrl + F4
+Trong hệ điều hành Windows, muốn đóng tệp hiện hành nhưng không thoát khỏi chương trình ta làm thế nào?|Nhấn tổ hợp phím Ctrl + F4
+Trong hệ điều hành Windows, muốn đóng (thoát) cửa sổ chương trình ứng dụng đang làm việc ta:|Nhấn tổ hợp phím Alt + F4.
+Trong hệ điều hành Windows, muốn đóng (thoát) cửa sổ chương trình ứng dụng đang làm việc ta làm thế nào?|Nhấn tổ hợp phím Alt + F4
+Trong hệ điều hành Windows, để quản lý tệp, thư mục ta thường dùng chương trình|Windows Explorer
+Trong hệ điều hành Windows XP, tiện ích nào sau đây dùng để xóa những tập tin tạm trên ổ cứng?|Disk Cleanup
+Trong hệ điều hành Windows 10 có sẵn phần mềm sử dụng công nghệ điện toán đám mây nào?|OneDive
+Trong hệ điều hành Windown muốn xóa vĩnh viễn (không lưu lại trong thùng rác Recycle Bin) thư muc hoặc file thì ta làm như thế nào?|Chọn đối tượng cần xóa rồi ấn tổ hợp phím SHIFT + Delete
+Trong Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả:|1
+Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi|(#NAME! )
+Trong excel ô địa chỉ có những loại nào|Tất cả các loại địa chỉ đã nêu
+Trong Excel muốn định dạng trang (để in ấn, hiển thị) ta vào|Page Layout > nhóm Page Setup > Click nút nhỏ ở góc phải bên dưới
+Trong Excel Biểu thức =IF(2>3,”Sai”) cho kết quả là gì?|FALSE
+Trong chương trình CMIS mã lộ đường dây gồm bao nhiêu ký tự?|14 ký tự
+Trong chế độ tạo bảng (Table) của phần mềm Winword, muốn tách một ô thành nhiều ô, ta thực hiện:|Table - Split Cells
+Trong chế độ tạo bảng (Table) của phần mềm Winword, để gộp nhiều ô thành một ô, ta thực hiện Chọn các ô cần gộp, roi chọn menu lệnh :|Table - Merge Cells
+Trong các phát biểu sau, phát biểu nào đúng nhất về ngôn ngữ bậc cao ?|Là ngôn ngữ gần với ngôn ngữ tự nhiên, có tính độc lập cao và không phụ thuộc vào các loại máy.
+Trong các phần mềm sau, phần mềm nào là phần mềm ứng dụng?|Microsoft Word
+Trong các phần mềm sau đâu là phần mềm gõ tiếp việt:|Tất cả các phần mềm trên
+Trong bảng tính MS Excel để thay đổi kiểu trang in ngang hoặc dọc, ta thực hiện|Thẻ Page Layout - Orientation - Portrait/Landscape
+Trong bảng tính MS Excel để chèn hình ảnh, ta thực hiện|Thẻ Insert - Picture
+Trong bảng tính MS Excel để ẩn cột, ta thực hiện|Thẻ Home - Cells - Format - Hide&Unhide - Hide Columns
+Trong bảng tính MS Excel 2007, để giữ cố định hàng hoặc côt trong cửa sổ soan thảo, ta đánh dấu hàng hoặc côt, chon|Thẻ View - Freeze Panes
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25; Tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết quả:|5
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25 ; Tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết quả gì?|5
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 10; Tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả:|50
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi Tin hoc; ô B2 có giá trị số 2008. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả:|VALUE!
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi Tin hoc; ô B2 có giá trị số 2008. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả:|#VALUE!
+Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi 2008 ; Tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:|Giá trị kiểu số 2008
+Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?|Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số
+Trong bảng tính excel, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiển thị trong ô các ký tự|#
+Trong bảng tính Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn môt điều kiện cho trước?|SUMIF
+Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào?|<>
+Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện|Nháy chuột chọn ô tính cần sửa, rồi bấm phím F2
+Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện:|Nháy chuột chọn ô tính cần sửa, rồi bấm phím F2
+Trong bảng tính Excel, để loc dữ liệu tư đông, sau khi chon khối cần loc, ta thưc hiện:|Data - Filter - AutoFilter
+Trong bảng tính Excel khi tính công thức gặp thông báo lỗi #DIV/0!, ý nghĩa của thông báo lỗi đó là gì?|Trong công thức có phép chia cho số 0
+Trong bảng tính Excel Double-click vào thành của tiêu đề tên cột dùng để?|Chọn chiều rộng phù hợp với chiều dài nội dung bên trong cột
+Trong bảng tính Exce, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?|Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số
+Trojan là một phương thức tấn công kiểu:|Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân
+Trên hệ điều hành Windows, để chuyển đổi cửa sổ chương trình cần làm việc, ta:|Nhấn giữ phím Alt và gõ phím Tab cho đến khi chọn được cửa sổ chương trình.
+Trang web tiếp nhận xử lý yêu cầu của khách hàng có địa chỉ như thế nào?|http://crm.npc.com.vn
+Tổ hợp phím tắt nào sau đây cho phép bạn chuyển đổi giữa các ứng dụng đang chạy trong Windows?|ALT + TAB
+Tính chất nào không phải tính chất chung của hệ điều hành?|Tính ổn định
+Tin nhắn thông báo tiền điện sẽ được gửi tới khách hàng sau khi:|Lập hóa đơn điện tử
+Tiện ích điều khiển máy tính từ xa có sẵn trong hệ điều hành Windows tên là gì?|Remote Desktop
+Thuật từ Multiprocessor có nghĩa là?|Nhiều CPU.
+Thông tin thiết đặt trong BIOS bị mất. Vấn đề là gì?|Pin CMOS yếu hoặc hết
+Thông số kỹ thuật “100 Mbps” là đặc trưng của loại đơn vị|Đơn vị đo tốc độ truyền thông
+Thống kê báo cáo số lượng khách hàng phát triển khách hàng phát triển mới trong kỳ được thực hiện tại chức năng nào sau đây?|Báo cáo hợp đồng->Báo cáo chi tiết->Danh sách khách hàng ký mới trong kỳ
+Thông báo tại máy tính hiện lên Check Printer Cable có ý nghĩa gì?|Kiểm tra cáp kết nối máy in
+Thiết bị nào trên bo mạch chủ (mainboard) có thể cập nhật/nâng cấp thông qua phần mềm?|System BIOS
+Thiết bị nào sau đây KHÔNG phải là thiết bị đầu vào của một hệ thống máy tính?|Máy in
+Thiết bị đo đếm quản lý trên chương trình CMIS gồm|Cả 3 loại thiết bị đã nêu
+Thiết bị đo đếm nào được phép thực hiện phân bổ trên chương trình CMIS?|Tất cả các phương án trên
+Thiếp lập jumper master cho ổ đĩa cứng để nhằm mục đích?|Xác định ổ đĩa chính
+Theo quy định, mã trạm trong chương trình CMIS có bao nhiêu ký tự?|9 ký tự
+Theo Điều 35. Quy cách ngồi trên xe ô tô của Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì vị trí ngồi như thế nào là đúng?|Vị trí quan trọng thứ nhất ở hàng ghế thứ hai phía tay phải của lái xe, vị trí quan trọng thứ hai ở phía tay trái của vị trí thứ nhất.
+Theo các anh chị, nếu nghi ngờ hệ thống nhiễm rootkit thì?|Có thể dùng tất cả các giải pháp trên
+Theo bạn, điều gì mà tất cả các virus tin học đều cố thực hiện?|Tự nhân bản
+Theo Anh/chị nội dung đúng nhất của giá trị Trách nhiệm trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 bao gồm?|EVN luôn có quan điểm nhất quán rằng, trách nhiệm với khách hàng, đối tác, cộng đồng xã hội và với tương lai của đất nước là một phần không thể thiếu trong sứ mệnh của EVN. Chúng ta thực hiện những điều đã nói và chịu trách nhiệm với những việc mình làm.
+Theo Anh/chị nội dung đúng nhất của giá trị Tiên phong trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 bao gồm?|Là người mở đường, khơi nguồn sáng tạo, EVN tiên phong trong nghiên cứu và phát triển để tạo ra những đột phá về năng lượng cho đất nước. Đây cũng là tinh thần giúp chúng ta phát triển vượt bậc trong thời đại mới.
+Theo Anh/chị nội dung đúng nhất của giá trị Sáng tạo trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 bao gồm?|Sáng tạo là đòn bẩy cho sự phát triển của EVN, chúng ta cần phải xây dựng một nền văn hóa cởi mở, sẵn sàng đón nhận những điều mới và khác biệt, không ngừng thách thức hiện tại để đổi mới và phát triển nhằm đưa EVN lên vị trí dẫn đầu lĩnh vực năng lượng trong nước và trong khu vực.
+Theo Anh/chị nội dung đúng nhất của giá trị Niềm tin trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 bao gồm?|EVN thắp sáng niềm tin bằng trách nhiệm, sự tận tâm, tinh thần tiên phong và sáng tạo để nâng cao chất lượng cuộc sống của khách hàng và cộng đồng xã hội.
+Theo Anh/chị nội dung đúng nhất của giá trị Chất lượng trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 bao gồm?|EVN cam kết cung cấp sản phẩm và dịch vụ có chất lượng cho khách hàng và cộng đồng xã hội.
+Theo Anh/chị một trong những điều cần phải làm để đạt được giá trị trách nhiệm trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Nêu cao tinh thần trách nhiệm với khách hàng, thấu hiểu và chia sẻ khó khăn với khách hàng, không ngừng nghiên cứu, đổi mới, ứng dụng công nghệ để cải tiến chất lượng sản phẩm và dịch vụ, vì lợi ích của khách hàng và cộng đồng xã hội.
+Theo Anh/chị một trong những điều cần phải làm để đạt được giá trị tiên phong trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Phát huy truyền thống “Điện đi trước một bước”, EVN luôn chủ động học hỏi và mở rộng tầm nhìn, thấu hiểu nhu cầu phát triển và sử dụng điện năng của khách hàng, đối tác để chủ động đáp ứng.
+Theo Anh/chị một trong những điều cần phải làm để đạt được giá trị sáng tạo trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Đảm bảo mọi người tại EVN được tự do học hỏi, sáng tạo, được tạo điều kiện tốt nhất để phát triển các ý tưởng và lòng đam mê khám phá cái mới.
+Theo Anh/chị một trong những điều cần phải làm để đạt được giá trị niềm tin trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Tôn trọng khách hàng, đối tác, đồng nghiệp và đối xử với họ như cách chúng ta mong muốn được đối xử.
+Theo Anh/chị một trong những điều cần phải làm để đạt được giá trị chất lượng trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Đảm bảo độ tin cậy cung cấp điện và chất lượng dịch vụ điện; đảm bảo khả năng truyền tải công suất nguồn điện, nhất là các nguồn năng lượng tái tạo, năng lượng mới.
+Theo Anh/chị khẩu hiệu của EVN trong cam kết của EVN "Vì sự bền vững của môi trường" được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|“Trái đất của chúng ta chỉ có một, hãy bảo vệ ngôi nhà chung”
+Theo Anh/chị khẩu hiệu của EVN trong cam kết của EVN "Vì niềm tin của người lao động" được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|“Người lao động luôn là tài sản quý giá nhất”
+Theo Anh/chị khẩu hiệu của EVN trong cam kết của EVN "Vì niềm tin của khách hàng và đối tác" được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|“Khách hàng là trung tâm của sự tồn tại và phát triển bền vững của EVN”
+Theo Anh/chị khẩu hiệu của EVN trong cam kết của EVN "Vì niềm tin của cộng đồng" được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|“Vì một cộng đồng phát triển bền vững”
+Theo Anh/chị đâu là nguyên tắc thứ tư trong các nguyên tắc cơ bản của EVN đã được nêu trong quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Nguyên tắc: Có cá nhân xuất sắc mới có tập thể sáng tạo
+Theo Anh/chị đâu là nguyên tắc thứ nhất trong các nguyên tắc cơ bản của EVN đã được nêu trong quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Nguyên tắc: Đã là EVN thì chất lượng và đáng tin cậy
+Theo Anh/chị đâu là nguyên tắc thứ năm trong các nguyên tắc cơ bản của EVN đã được nêu trong quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Nguyên tắc: Lãnh đạo phải làm gương
+Theo Anh/chị đâu là nguyên tắc thứ hai trong các nguyên tắc cơ bản của EVN đã được nêu trong quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Nguyên tắc: Thực hiện công việc được giao và chịu trách nhiệm đến kết quả cuối cùng
+Theo Anh/chị đâu là nguyên tắc thứ ba trong các nguyên tắc cơ bản của EVN đã được nêu trong quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Nguyên tắc: Sức mạnh trong mọi hoạt động của EVN là tinh thần đoàn kết và trí tuệ tập thể
+Theo Anh/chị đâu là khẩu hiệu cam kết của EVN Vì sự bền vững của môi trường đã được nêu ở các cam kết của EVN trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|“Trái đất của chúng ta chỉ có một, hãy bảo vệ ngôi nhà chung”
+Theo Anh/chị đâu là khẩu hiệu cam kết của EVN Vì niềm tin của người lao động đã được nêu ở các cam kết của EVN trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|“Người lao động luôn là tài sản quý giá nhất”
+Theo Anh/chị đâu là khẩu hiệu cam kết của EVN Vì niềm tin của khách hàng và đối tác đã được nêu ở các cam kết của EVN trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|“Khách hàng là trung tâm của sự tồn tại và phát triển bền vững của EVN”
+Theo Anh/chị đâu là khẩu hiệu cam kết của EVN Vì niềm tin của Đảng, Chính phủ đã được nêu ở các cam kết của EVN trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|“EVN luôn tiên phong, sáng tạo vì nguồn năng lượng cho đất nước”
+Theo Anh/chị đâu là khẩu hiệu cam kết của EVN Vì niềm tin của cộng đồng đã được nêu ở các cam kết của EVN trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|“Vì một cộng đồng phát triển bền vững”
+Theo Anh/chị Các giá trị chuẩn mực hành vi ứng xử chung của người EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 bao gồm?|“Tôn trọng - Tận tâm - Chuyên nghiệp - Hợp tác - Nghĩa tình”.
+Thao tác nào sau đây dược dùng để chọn nhiều đối tượng không liên tiếp nhau trong hệ điều hành Windows?|Nhấn giữ phím Ctrl và nháy chuột vào từng đối tượng
+Thành phần nào không phải là thành phần của hệ điều hành?|Chương trình điều khiển thiết bị
+Tên thư mục trong hệ điều hành Windows XP cần thoả điều kiện sau:|Không quá 255 ký tự; không được trùng tên nếu trong cùng một cấp thư mục (cùng thư mục cha) và không chứa các ký tự đặc biệt (/ \ “ * ! <>? :).
+Tên thư mục trong hệ điều hành Windows cần thoả điều kiện nào sau đây?|Không quá 255 ký tự; không được trùng tên nếu trong cùng một cấp thư mục (cùng thư mục cha) và không chứa các ký tự đặc biệt (/ \ “ * ! <>? :)
+Tài nguyên của hệ thống bao gồm:|Bộ nhớ, bộ xử lí và các thiết bị vào ra
+Tác dụng của lệnh IPCONFIG/ALL trong windows?|Dùng để xem các thông số cấu hình thiết bị mạng của máy tính đang sử dụng
+System Hacking là một phương thức tấn công kiểu:|Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng
+Số lượng thiết bị ngoại vi tối đa có thể nối vào máy tính thông qua cổng USB là?|127
+Số điện thoại tổng đài nhắn tin chăm sóc khách hàng là số nào:|8079
+Số điện thoại tổng đài chăm sóc khách hàng là số nào:|19006769
+Sau khi cài phần mềm Kaspersky, người dùng không in được qua máy in mạng. Dù trước đó máy tính vẫn in qua máy in được share trong mạng LAN bình thường và vẫn có kết nối mạng. Nguyên nhân:|Chức năng tường lửa của Kaspersky đã chặn các thiết lập kết nối mạng LAN
+Sau khi cài đặt Driver cho thiết bị phần cứng. Máy tính không khởi động được Window, có thể khắc phục bằng phương pháp nào sau đây?|Reboot lại hệ thống và chọn Last Know Good Configuration
+Rootkit là công cụ mà hacker sử dụng để:|Mở cổng sau cho mỗi lần kết nối về sau
+Ram là gì?|RAM (Random Access Memory) là một loại bộ nhớ khả biến cho phép truy xuất đọc-ghi ngẫu nhiên đến bất kỳ vị trí nào trong bộ nhớ dựa theo địa chỉ ô nhớ. Thông tin lưu trên RAM chỉ là tạm thời, chúng sẽ mất đi khi mất nguồn điện cung cấp
+Quạt CPU dùng để|Làm mát cho chip CPU
+Quản lý thiết bị đo đếm PCHY đang áp dụng theo mô hình mây câp?|2 cấp
+Process là gì?|Một chương trình nạp vào bộ nhớ và đang được CPU thực thi
+Pin CMOS sử dụng để làm gì?|Lưu trữ giá trị mặc định của BIOS và cấu hình chi tiết BIOS
+Phím Tab trong Microsoft Word có chức năng gì|Lùi văn bản vào một khoảng cách cố định
+Phím Shift trong Microsoft Word có chức năng gì|Cả hai phương án trên
+Phím Print Screen có tác dụng gì?|Chụp ảnh màn hình
+Phím Insert trong Microsoft Word có chức năng gì|Chuyển giữa hai chế độ chèn/đè
+Phím Delete trong Microsoft Word có chức năng gì|Xóa ký tự bên phải con trỏ văn bản
+Phím Caps Lock trong Microsoft Word có chức năng gì|Bật/tắt chế độ chữ hoa
+Phát biểu sau là của nguyên lí nào của HĐH: “Mỗi công việc trong hệ thống thường có thể được thực hiện bằng nhiều cách khác nhau và bằng nhiều công cụ khác nhau”|Nguyên lí phủ chức năng
+Phát biểu sau là của nguyên lí nào của HĐH: “Hệ điều hành được chia thành nhiều phần, các thành phần có thể ghép nối với nhau thông qua đầu vào và đầu ra”|Nguyên lí module
+Phát biểu nào sau đây là hợp lí nhất về RAM ?|dùng để lưu trữ dữ liệu và chương trình trong thời gian máy làm việc
+Phần mềm OpenOffice (là phần mềm miễn phí) được khuyến khích dùng thay thế phần mềm nào sau đây?|MS Office
+Phần mềm OneDrive có sẵn trong Windows 10 nhưng chỉ miễn phí lưu trữ được 5GB dữ liệu, để tăng dung lượng lưu dữ liệu mà không mất tiền thì phải làm thế nào?|Giới thiệu bạn bè sử dụng, mỗi lần giới thiệu được 01 người dùng bạn sẽ được công thêm 500MB dung lượng vào tài khoản
+Phần mềm nào dưới đây không phải là phần mềm hệ thống?|Microsoft Excel
+Phần mềm máy tính là:|1. Các thuật toán, được thể hiện trên máy tính là các chương trình (code)
+Phần mềm ERP phục vụ công tác chuyên môn của bộ phận nào trong Công ty?|Bộ phận Kế toán và Vật tư
+Phần mềm điện toán đám mây OneDrive có sẵn trong Windows 10 được miễn phí bao nhiêu GB?|5 GB
+Phần mềm điện toán đám mây GoogleDriver được miễn phí bao nhiêu GB?|15 GB
+Phần mềm điện toán đám mây Dropbox được miễn phí bao nhiêu GB?|2 GB
+Phần mềm CMIS sử dụng hệ quản trị cơ dữ liệu nào?|Oracle Server
+Phần mềm CMIS có thể hoạt động trên trình duyệt nào sau đây?|Tất cả các tình duyệt trên
+Phần cứng máy tính là|Là phần vật chất cụ thể tạo nên máy tính, có thể tiếp xúc được
+Partition ổ cứng được định dạng theo chuẩn FAT32 thì lưu được file có dung lượng tối đa là bao nhiêu?|4 GB
+Partition C được định theo hệ thống tập tin FAT32. Lệnh nào sau đây cho phép định dạng lại Partition C theo hệ thống tập tin NTFS mà không làm mất dữ liệu trên phân vùng này?|Convert c: /fs:ntfs
+Ổ cứng HDD dùng nguồn điện nào sau đây?|5V
+Nội dung thông báo ngừng cấp điện hoặc giảm mức cung cấp điện phải bao gồm những thông tin nào?|Địa điểm, lý do, thời gian bắt đầu ngừng cấp điện hoặc giảm mức cung cấp điện và thời gian dự kiến cấp điện trở lại.
+Những phần mềm sau, đâu là phần mềm nguồn mở?|OpenOffice, HĐH Linux
+Những phần mềm sau đâu là phần mềm diệt virus?|Tất cả các phần mềm đã nêu
+Nhiệm vụ nào dưới đây không phải là nhiệm vụ của thành phần quản lí bộ nhớ?|Tổ chức định vị file trong bộ nhớ
+Người và máy tính giao tiếp thông qua :|Hệ điều hành
+Ngoài phần mềm Unikey dùng để gõ tiếng việt chuẩn Unicode, thì còn phần mềm nào hỗ trợ gõ tiếng việt chuẩn unicode nữa:|Tất cả các phần mềm trên
+Ngày giờ hệ thống vẫn được duy trì và bảo quản ở đâu khi bạn tắt máy tính?|Trong CMOS
+Nếu thực hiện tìm theo tên để khi load dữ liệu không tích(checkbox) vào danh sách toàn bộ khách hàng hiển thị trên Datagriview. Muốn chọn 1 khách hàng thì làm thế nào?|Chọn 1 hóa đơn cần in rồi tích vào đảo chọn
+Nêu chức năng của Bộ xử lý trung tâm (CPU: Central Processor Unit )?|Tất cả các chức năng trên đều đúng
+Nêu cách phòng ngừa Virus máy tính:|Tất cả các cách trên
+Muốn truy cập vào máy chủ số 1 để truy xuất dữ liệu qua điện thoại, máy tính bảng thì phải dùng phần mềm nào sau đây?|Ds file
+Muốn sắp xếp các biểu tượng trên Desktop ta tiến hành cách nào sau đây|Nhấp chuột phải trên Desktop, chọn Arrange Icons By
+Muốn sao chép định dạng của một dòng văn bản nào đó, bạn sẽ bôi đen dòng đó, sau đó:|Nhấn chuột vào biểu tượng Format Painter
+Muốn khởi động chương trình Windows Explorer, ta thựchiện|Nhấn phải chuột trên My Computer, Explorer
+Muốn đóng cửa sổ của chương trình ta chọn|Alt + F4
+Muốn cài thêm font chữ cho máy tính ta phải làm thế nào?|Tất cả các cách đã nêu
+Muốn bật tính năng gõ tắt trong Microsoft Word 2003, ta vào Menu Tools, chọn lệnh AutoCorrect Options sau đó đánh dấu chọn mục:|Replace text as you type
+Mục tiêu nào sau đây nằm trong 5 mục tiêu chính của điều phối tiến trình?|Sự công bằng
+Mục đích và nhiệm vụ của driver là gì?|Chỉ cho hệ điều hành cách tương tác với thiết bị.
+Mục đích và nhiệm vụ của driver là gi?|Chỉ cho hệ điều hành cách tương tác với thiết bị.
+Một số chức năng của hệ điều hành là :|Tất cả đều đúng.
+Một máy vi tính có thể có|Tối đa 02 ổ đĩa mềm
+Một khách hàng phàn nàn rằng. Quạt nguồn máy tính của anh ta không làm việc và hệ thống làm việc chậm đồng thời có “mùi” trong quá trình khởi động. Bạn nên làm gì?|Thay thế Power supply
+Một công thức trong Excel sẽ bao gồm|Dấu = rồi đến biểu thức gồm tối thiểu hai toán hạng được liên kết bằng một toán tử.
+Máy tính đang chạy bị lỗi BSOD: Blue Screen of Death ( lỗi màn hình xanh chết chóc).Ma lỗi: IRQL NOT LESS OR EQUAL. Hãy chỉ ra những nguyên nhân có thể gây ra mã lỗi này:|Tất cả đáp án trên
+Máy tính đang chạy bị lỗi BSOD: Blue Screen of Death ( lỗi màn hình xanh chết chóc).Mã lỗi như sau: BAD_POOL_HEADER. Hãy chỉ ra những nguyên nhân có thể gây ra mã lỗi này:|Tất cả đáp án trên
+Máy tính bị lỗi không khởi động vào được Windows7, sau khi kiểm tra xác định phải cài lại hệ điều hành Windows. Khi dùng USB khởi động để cài lại máy tính thao thác cần phải làm đầu tiên là:|Vào Mini Windows copy dữ liệu tại ổ C.
+Máy Scaner thường được kết nối với máy tính thông qua cổng nào sau đây?|USB
+Máy in phun sử dụng loại mực nào sau đây?|Mực nước
+Màn hình máy tính thường được kết nối với máy tính thông qua cổng nào sau đây?|VGA
+Màn Hình Đen Khi Khởi Động Bạn phải làm gì?|Làm lần lượt từng bước để tìm ra lỗi phần cứng, sau đó sửa chữa hoặc thay thế bộ phận hỏng
+Mặc định, tài liệu của Microsoft Word 2016 được lưu với phần mở rộng|DOCX
+Lợi ích của việc sử dụng phần mềm nguồn mở là?|Tất cả các ý trên
+Loại file nào có thể phát tán được virus|Tất cả các ý trên
+Lệnh MSCONFIG trong hệ điều hành Windows có tác dụng gì?|Thiết lập một số thành phần để tăng tốc độ khởi động của hệ điều hành
+Lệnh DIR được lưu trữ trong?|COMMAND.COM.
+Lấy danh sách điểm đo đã tháo công tơ mà chưa thanh lý tại chức năng nào sau đây|Báo cáo hợp đồng
+Ký tự phân cách giữa các đối số của hàm (List Seperator) trong Excel là gì?|Tùy thuộc vào cách thiết lập cấu hình trong Control Panel
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:|Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus
+Kích thước màn hình được tính bằng inch, là độ dài khoảng cách của?|Không có thông tin nào trong các thông tin trên
+Khởi động máy tính, loa tín hiệu phát ra tiếng beep dài liên tục, lỗi do thiết bị nào sau đây?|VGA Card
+Khi tham gia thanh toán tiền điện điện điện tử qua ngân hàng khách hàng có phải trả thêm tiền phí dịch vụ thanh toán cho ngành điện không?|Khách hàng phải trả phí dịch vụ là 1.200 đ/ hóa đơn
+Khi tạo phân vùng cho 1 đĩa cứng mới sử dụng soft: Acronis Disk Director. Lệnh: Chanel Label dùng để làm gì?|Thay đổi tên phân vùng
+Khi nhập dữ liệu kiểu số vào bảng tính Excel thì|Dữ liệu sẽ mặc nhiên căn thẳng lề phải
+Khi nhập chỉ số định kỳ ( tại phân hệ Ghi chỉ số & lập Hóa đơn) trên chương trình CMIS3.0, để so sánh sản lượng nhập hiện tại với sản lượng bình quân 3 tháng liền kề trước đó người dùng sử dụng tiện ích nào?|“Tiện ích cảnh báo” trong chức năng “Hiệu chỉnh chỉ số định kỳ”
+Khi nhập chỉ số định kỳ ( tại phân hệ Ghi chỉ số & lập Hóa đơn) trên chương trình CMIS3.0, để so sánh sản lượng nhập hiện tại với sản lượng bình quân 3 tháng liền kề trước đó người dùng sử dụng tiện ích nào?|“Tiện ích cảnh báo” trong chức năng “Hiệu chỉnh chỉ số định kỳ”
+Khi nhận được thông báo lỗi Non-system disk or disk error. Nguyên nhân là do?|Chưa cài đặt hệ điều hành hoặc boot sector bị lỗi
+Khi nào người vận hành sử dụng chức năng “Cập nhật chỉ số chốt đổi giá” trên chương trình CMIS?|Chỉ thực hiện khi trong tháng có thay đổi giá bán điện theo quy định của nhà nước
+Khi máy tính không Nhận USB, Hoặc Nhận Nhưng Không Mở Được USB thì có thể do những nguyên nhân gì?|Tất cả các nguyên nhân đều có thể xẩy ra
+Khi máy tính bị nhiễm virus phải cài mới lại Windows, để đảm bảo hạn chế tối đa máy tính bị nhiễm virus trở lại thì bạn chọn cách nào sau đây:|1. Cài Windows --> 2. Cài phần mềm diệt virus từ USB sạch --> 3. Cài Driver và thiết bị ngoại vi --> 4. Cài đặt phần mềm ứng dụng
+Khi máy tính bị lỗi không vào được Windows, làm thế nào để copy dữ liệu tại ổ C ( ổ cài đặt Windows):|Tất cả đáp án đều đúng.
+Khi mất điện, thông tin lưu trữ trong các thành phần nào sau đây bị mất?|Ram
+Khi kích đúp chuột vào thanh tiêu đề của một cửa sổ đang ở chế độ kích thước cực đại trong hệ điều hành Windows sẽ:|Thu cửa sổ về kích thước trước đó
+Khi khởi động máy tính, loa tín hiệu phát ra tiếng Beep dài liên tục, lỗi do thiết bị nào sau đây?|Ram
+Khi khách hàng đăng ký tài khoản trên web chăm sóc khách hàng, khách hàng có thể khai thác tiện ích nào?| Tất cả các ý đã nêu
+Khi khách hàng đã được lập hóa điện tử nhưng chưa thanh tóan tiền, người dùng có thể sử dụng chức năng nào trên chương trình CMIS3.0 trong số các chức năng dưới đây?|Tất cả các phương án trên
+Khi in biên nhận mà nhầm mã khách hàng. Cần thao tác gì?|Báo cho nhân viên theo dõi nợ để hủy chấm nợ.
+Khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, ta phải|Nhấn tổ hợp phím Alt + Tab
+Khi đang soạn thảo văn bản Word, muốn phục hồi thao tác vừa thực hiện thì bấm tổ hợp phím:|Ctrl - Z
+Khi đang soạn thảo văn bản Word, muốn đánh dấu lựa chọn một từ, ta thực hiện :|Nháy đúp chuột vào từ cần chọn
+Khi đăng nhập vào chương trình CNOL mà không lấy được đơn vị cấp cha thì ta phải làm gì?|Cả 2 phương án trên
+Khi đang nhập liệu trong Calc của OpenOffice, phím tắt nào sau đây sẽ giúp bạn xuống dòng ngay trong cùng một ô:|Ctrl + Enter
+Khi đang làm việc với WinWord (Excel), nếu lưu tệp vào đĩa, thì tệp đó ?|Cả 3 câu đều sai
+Khi đang làm việc với PowerPoint, muốn trình diễn tài liệu được soạn thảo, ta thực hiện :|Slide Show - View Show
+Khi đang làm việc với PowerPoint, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ,...) của Slide, ta thực hiện :|Format - Slide Layout...
+Khi đang làm việc với PowerPoint, muốn thiết lập hiệu ứng cho văn bản, hình ảnh, ..., ta thực hiện :|Slide Show - Custom Animation, rồi chọn Add Effect
+Khi đang làm việc với PowerPoint 2003, muốn bỏ hiệu ứng trình diễn ta chọn đối tượng cần bỏ hiệu ứng và thực hiện:|PA1 - Slide Show - Custom Animation, rồi chọn Remove
+Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính?|Ctrl + Home
+Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím|Ctrl-Page Up ; Ctrl- Page Down
+Khi có chấm chéo giữa các TNV trong điện lực đến khi quyết toán trong cmis bị lệch so với số giao thu ban đầu dẫn đến không quyết toán được?|Do dùng sai chức năng: Có hành thu và không hành thu
+Khi chấm nợ online chương trình báo lỗi woosim.dll thì phải làm thế nào?|Cài vcredist _x86
+Khi cần mở Task Manager trên hệ điều hành Windows ta có thể dùng nhanh các tổ hợp phím nào sau đây|Right-Click Taskbar
+Khai thác báo cáo lấy Danh sách khách hàng không lên số trong 6 tháng liên tiếp, người dùng sử dụng chương trình nào?|Chương trình CMIS3.0
+Khách hàng đăng nhập vào trang web CSKH khi chưa thanh toán tiền điện có thể xem:|Thông báo tiền điện.
+Hiện nay hãng Google có cung cấp dịch vụ lưu ảnh miễn phí không giới hạn dung lượng thông qua phần mềm nào?|GooglePhoto
+Hệ thống của bạn khởi động bình thường nhưng không nghe thấy tiếng beep, bạn phải kiểm tra bộ phận nào đầu tiên?|Speaker
+Hệ thống các chương trình đảm nhận chức năng làm môi trường trung gian giữ a người sử dụng và phần cứng của máy tính được gọi là :|Hệ điều hành
+Hệ điều hành Windows là hệ điều hành có:|Cả 3 phương án đều đúng
+Hệ điều hành Windows 32bit nhận được tối đa dung lượng bộ nhớ RAM là bao nhiêu?|4 GB
+Hệ điều hành nguồn mở thông dụng nhất hiện nay là HĐH nào?|Linux
+Hệ điều hành mã nguồn mở thông dụng nhất hiện nay là?|Linux
+Hệ điều hành không phải trả phí bản quyền khi sử dụng là hệ điều hành:|Linux
+Hãy nêu chức năng của bộ nhớ RAM (Random Access Memory)?|Là bộ nhớ trong, có thể thay đổi, truy nhập một cách ngẫu nhiên, dùng để chứa các thông tin cần thiết như chương trình, dữ liệu trong quá trình máy hoạt động
+Hãy chọn ra tên thiết bị mạng?|Hub, Switch
+Hãy chọn phương án ghép đúng nhất : Máy tính trở thành công cụ lao động không thể thiếu được trong xã hội hiện đại vì :|Máy tính cho ta khả năng lưu trữ và xử lý thông tin (*)
+Hãy chọn phương án ghép đúng nhất : Máy tính trở thành công cụ lao động không thể thiếu được trong xã hội hiện đại vì :|Máy tính cho ta khả năng lưu trữ và xử lý thông tin
+Hãy chọn phương án ghép đúng nhất . Hệ điều hành “ đa nhiệm một người dùng ” là|Chỉ có một người đăng nhập vào hệ thống, nhưng có thể kích hoạt cho hệ thống thực hiện đồng thời nhiều chương trình.
+Hãy chọn phương án ghép đúng . Phần mềm hệ thống:|Có chức năng giám sát và điều phối thực hiện các chương trình
+Hãy chọn phương án ghép đúng . Phần mềm hệ thống :|Có chức năng giám sát và điều phối thực hiện các chương trình
+Hãy chọn phương án ghép đúng . Mô hình Client - Server là mô hình|Xử lý phân tán ở nhiều máy, trong đó máy chủ cung cấp tài nguyên và các dịch vụ theo yêu cầu từ máy khách.
+Hãy chọn phương án ghép đúng . Mạng máy tính là :|Tập hợp các máy tính được nối với nhau bằng các thiết bị mạng và tuân thủ theo một quy ước truyền thông.
+Hãy chọn phương án đúng nhất : Hệ điều hành đa nhiệm nhiều người dùng là hệ điều hành thực hiện:|Tất cả đều đúng .
+Hãy chọn phát biểu hợp lý nhất về khái niệm phần mềm :|Phần mềm gồm chương trình máy tính, tài liệu về cách tổ chức dữ liệu và các tài liệu hướng dẫn khác .
+Hãy chọn phát biểu đúng trong các phát biểu sau:|Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định
+Hãy chọn câu ghép đúng . Hệ điều hành là :|Phần mềm hệ thống.
+Hãy cho biết Mainboard Gigabyte GA-B150M-D2V hỗ trợ socket loại nào?|1151
+Hạn chế của hệ điều hành Linux là gì?|Cả câu a,b,c đều đúng.
+Hàm VLOOKUP(Giá trị bạn muốn tra cứu, dải ô mà bạn muốn tìm giá trị, số cột trong dải ô chứa giá trị trả về, Kết quả khớp Chính xác hoặc Kết quả khớp Tương đối - được biểu thị là 0/FALSE hoặc 1/TRUE) trong Excel có ý nghĩa là:|Tìm kiếm một giá trị trong cột ngoài cùng của bảng hoặc mảng giá trị, sau đó trả về giá trị trong cùng hàng từ cột mà bạn chỉ định trong bảng hoặc mảng
+Hàm Sumif () trong Excel có ý nghĩa là:|Tính tổng có điều kiện các đối số trên bảng tính
+Hàm SUM() trong Excel có ý nghĩa là:|Hàm SUM trong Excel thường được sử dụng để tính tổng các đối số trên bảng tính
+Hàm PRODUCT(number1, [number2], ...) trong Excel có ý nghĩa là:|Nhân tất cả các đối số đã cho với nhau và trả về tích của chúng
+Hàm MOD(number1, number2) trong Excel có ý nghĩa là:|Hàm lấy số dư của phép chia
+Hàm MIN(number1, [number2], ...) trong Excel có ý nghĩa là:|Trả về giá trị nhỏ nhất trong tập giá trị.
+Hàm MAX(number1, [number2], ...) trong Excel có ý nghĩa là:|Trả về giá trị lớn nhất trong tập giá trị.
+Hàm INT(number) trong Excel có ý nghĩa là:|Hàm lấy phần nguyên của số thập phân
+Hàm HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup]) trong Excel có ý nghĩa là:|Tìm kiếm một giá trị trong hàng trên cùng của bảng hoặc mảng giá trị, sau đó trả về giá trị trong cùng cột từ hàng mà bạn chỉ định trong bảng hoặc mảng
+Hàm COUNTIF(range) trong Excel có ý nghĩa là:|Để đếm số lượng ô đáp ứng một điều kiện
+Hàm COUNTBLANK(range) trong Excel có ý nghĩa là:|Đếm số lượng ô trắng
+Hàm COUNTA(value1, [value2], ...) trong Excel có ý nghĩa là:|Đếm số lượng ô không trống
+Hàm COUNT(value1, [value2], ...) trong Excel có ý nghĩa là:|Đếm số lượng ô có chứa các số
+Hàm AVERAGE(number1, [number2], ...) trong Excel có ý nghĩa là:|Tính giá trị trung bình
+Giải thích câu lệnh SQL sau? update NHOADON Set tthai_phanh = 1 Where ma_dviqly=TA190r and thang = 9 and nam = 2010|Cập nhật tthai_phanh bằng 1 trong bảng NHOADON với điều kiện ma_dviqly='PA1901' và thang = 9 và nam = 2010
+Giải thích câu lênh SQL sau: Select * From hnhatki_gcs where thang = 9 and nam = 2010 and tthai_quyen<>7|Dùng để hiện thị tất cả các trường trong bảng hnhatki_gcs thoả mãn điều kiện thang = 9 và nam = 2010 và tthai_quyen<>7
+Giả sử ngày hệ thống của máy tính là: 18/8/2012; Khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận được kết quả là:|41138
+Dung lượng thông thường của một đĩa CD là?|650 MB
+Dựa vào sơ đồ cấu trúc máy tính đã học, hãy cho biết quá trình xử lý thông tin thực hiện theo quy trình nào trong những quy trình dưới đây (hay thứ tự các thao tác ở phần khái niệm hệ thống tin học) :|Nhập thông tin --> Xử lý thông tin --> Xuất ; Lưu trữ thông tin
+Dựa vào sơ đồ cấu trúc máy tính đã học, hãy cho biết quá trình xử lý thông tin thực hiện theo quy trình nào trong những quy trình dưới đây (hay thứ tự các thao tác ở phần khái niệm hệ thống tin học) :|Nhập thông tin --> Xử lý thông tin --> Xuất ; Lưu trữ thông tin
+Dữ liệu trong thiết bị nhớ nào sẽ mất khi mất điện:|RAM
+Dữ liệu trong bộ nhớ, thiết bị lưu trữ nào mất khi tắt máy tính:|RAM
+Đơn vị nào sau đây dùng đo tốc độ truyền thông?|Bit per second (bps)
+Đơn vị nào sau đây dùng đo khả năng lưu trữ của thiết bị, linh kiện?|Byte (B)
+Định nghĩa virus máy tính?|Cả hai ý trên
+Điều kiện thực hiện gửi kiểm định thiết bị đo đếm chương trình CMIS|Thiết bị đo đếm dưới lưới đơn vị
+Điều kiện thực hiện chức năng Xác nhận số liệu in hóa đơn trên chương trình CMIS là:|Sổ GCS đã được tính hóa đơn
+Điều kiện thực hiện chức năng In giấy biên nhận thanh toán hóa đơn điện tử trên Tiện ích in biên nhận CMIS30 là:|Sổ GCS đã được lập hóa đơn điện tử
+Điều kiện thực hiện chức năng In giấy biên nhận thanh toán hóa đơn điện tử trên Tiện ích chương trình CMIS3.0 là:|Sổ GCS đã được lập hóa đơn điện tử và còn hiệu lực
+Điều kiện để thực hiện treo tháo thiết bị đo đếm trên chương trình CMIS?|Thiết bị đo đếm trong kho Điện lực và có tình trạng kiểm định đạt
+Điều kiện để lập hóa đơn điện tử của một sổ ghi chỉ số trên chương trình CMIS là?|Sổ đã được xác nhận số liệu in hóa đơn
+Điều kiện để khách hàng tải được hóa đơn điện tử trên website Chăm sóc khách hàng là gì?|Phải thoả mãn tất cả các ý trên
+Điều kiện để chuyển tháng phân hệ Khách hàng hợp đồng trên chương trình CMIS3.0 là gì?|Phân hệ cần chuyển tháng ở trạng thái đã tổng hợp số liệu báo cáo và Phân hệ cần chuyển tháng ở tháng cần chuyển tháng -1
+Điều kiện để chuyển tháng phân hệ GCS và lập hóa đơn trên chương trình CMIS3.0 là gì?|Phân hệ cần chuyển tháng ở trạng thái chốt số liệu báo cáo và Phân hệ cần chuyển tháng ở tháng cần chuyển tháng -1
+Dịch vụ lưu trữ OneDriver là sản phẩm của hãng nào sau đây?|Microsoft
+Dịch vụ lưu trữ đám mây của Google là:|Google Driver
+Địa chỉ truy cập phần mềm quản lý nhân sự HRMS là địa chỉ nào sau đây:|http://10.21.50.76/
+Địa chỉ máy chủ của phần mềm ERP là địa chỉ nào dưới đây?|http://10.21.50.75:8050
+Địa chỉ DNS Server để vào địa chỉ cmis3.npc.com.vn|10.51.0.22
+Địa chỉ B$3 là địa chỉ|Hỗn hợp.
+Để xuống dòng trong cùng một ô, ta ấn tổ hợp phím|Alt - Enter
+Để xuất số liệu sổ GCS ra file HHC trên chương trình CMIS3.0, sổ GCS phải ở trạng thái nào?|Đã được lập lịch
+Để xuất số liệu sổ GCS ra file HHC trên chương trình CMIS, sổ GCS phải ở trạng thái nào?|Đã được lập lịch
+Để xem Thông báo hóa đơn điện tử tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng vào chức năng nào?|Hóa đơn điện tử -> Xem thông báo hóa đơn điện tử
+Để tra cứu tình trạng thiết bị đo đếm (công tơ, TU, TI) trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Phân hệ Quản lý thiết bị đo đếm -> Tra cứu tình trạng thiết bị
+Để tra cứu tình trạng của sổ GCS trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Phân hệ Ghi chỉ số và lập hóa đơn -> Tiện ích -> Tra cứu tình trạng sổ
+Để Tra cứu thông tin thanh toán trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Phân hệ Quản lý thu và theo dõi nợ -> Tiện ích -> Tra cứu thông tin thanh toán
+Để tra cứu thông tin hợp đồng, hóa đơn, công nợ của khách hàng sử dụng điện trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Tiện ích -> Tra cứu -> Tra cứu khách hàng - hoá đơn - công nợ
+Để tra cứu thông tin hóa đơn của khách hàng trong nhiều tháng(từ tháng/năm đến tháng/năm) trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Phân hệ Ghi chỉ số và lập hóa đơn ->Tiện ích -> Lập sao lục chỉ số hóa đơn
+Để tra cứu Thay đổi chỉ số bắt đầu trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Phân hệ Ghi chỉ số và lập hóa đơn -> Tiện ích -> Thay đổi chỉ số bắt đầu
+Để tra cứu lịch sử chỉ số của khách hàng trong nhiều tháng liên tiếp tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Tiện ích -> Lập sao lục chỉ số hóa đơn
+Để thực hiện thu tiền điện bằng chương trình chấm nợ online cần có những thiết bị gì?|Tất cả các thiết bị đã nêu
+Để thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:|Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client
+Để thống kê tổng sản lượng tiền điện theo trạm trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo tổng hợp -> Theo trạm
+Để thống kê tổng sản lượng tiền điện theo sổ GCS trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo tổng hợp -> Theo sổ GCS
+Để thống kê tổng sản lượng tiền điện theo ngành nghề trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo tổng hợp -> Theo mục ngành nghề
+Để thống kê tổng sản lượng tiền điện hóa đơn điều chỉnh theo lý do điều chỉnh trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo tổng hợp hóa đơn điều chỉnh -> Theo lý do điều chỉnh
+Để thống kê tổng sản lượng tiền điện hóa đơn điều chỉnh theo loại điều chỉnh trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo tổng hợp hóa đơn điều chỉnh -> Theo loại điều chỉnh
+Để thống kê sản lượng của khách hàng theo tiêu chí loại khách hàng, loại hóa đơn, loại trạm, theo khoảng sản lượng,... trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Thống kê điện tiêu thụ
+Để thống kê điểm đo không phát sinh sản lượng liên tục theo tùy chọn số tháng trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách điểm đo không có sản lượng
+Để thống kê danh sách điểm đo theo tình trạng theo tráo công tơ theo số tháng kiểm tra trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Thông kê tình trạng chỉ số theo số lần tích lũy
+Để thống kê danh sách điểm đo có thay đổi chỉ số bắt đầu ngày đầu kỳ trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách điểm đo có chỉ số bắt đầu
+Để thống kê chi tiết sản lượng theo trạm trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách chi tiết ghi chi số theo trạm
+Để thống kê chi tiết khách hàng theo tình trạng công tơ trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách chi tiết chỉ số khách hàng theo tình trạng
+Để thiết lập lại các thông số về hiển thị thời gian (time) và ngày tháng (date), cách thể hiện và tính toán của các con số (number) và tiền tệ (currency) trên hệ điều hành Windows, có thể sử dụng cách:|Vào Control Panel - Regional and Language Options
+Để thêm cột mới vào bên trái cột đã chọn ta làm như sau|Vào Home > nhóm Cells > click Insert Sheet Columns
+Để thay đổi màu nền của một văn bản, chúng ta chọn:|Format\Border and Shading\Shading
+Để tạo mật mã bảo vệ tệp văn bản trong Microsoft Word 2003, ta vào menu Tools, chọn lệnh Options sau đó nhập mật mã cho tệp văn bản tại trang (thẻ lệnh):|Security
+Để tạo đinh dạng khổ giấy măc nhiên là A4 khi soạn thảo văn bản trên Word 2003 ta thực hiện theo cách nào?|Vào File/Page Setup, chọn nhãn Paper với Paper size là A4, nhấn Default
+Để tạo biểu tượng (Shortcut) của chương trình lên màn hình Desktop, bấm chuột phải vào tập tin cần tạo Shortcut và chọn:|Create Shortcut
+Để soạn thảo văn bản tiếng việt bằng font chữ Time new roman, arial, ... của windows cần sử dụng bảng mã nào|Unicode
+Để soạn thảo văn bản tiếng việt bằng font chữ .vntime, .vnarial, ... cần sử dụng bảng mã nào|TCVN3
+Để slide trình chiếu báo cáo cảu đơn vị phù hợp với màn hình leb của Công ty thì bạn phải thiết kế slide theo tỷ lệ nào sau đây:|Tỷ lệ 16:9
+Để Nhập sản lượng thương phẩm mục đích khác tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Tiện ích -> Nhập sản lượng thương phẩm
+Để máy tính ở nhà truy cập được với dữ liệu dùng chung tại PCĐB thì dùng phương pháp kết nối nào?|VPN
+Để lấy ra Danh sách khách hàng ký mua CSPK người sử dụng phải lựa chọn mục báo cáo nào đưới đây?|Báo cáo hợp đồng
+Để lấy danh sách các điểm đo có thực hiện chuyển sổ trong tháng người dùng sử dụng chức năng nào sau đây?|Báo cáo hợp đồng->Báo cáo chi tiết->Danh sách điểm đo chuyển sổ trong tháng
+Để ký số Lập biên bản giao phát hành hóa đơn lưu trữ điện tử tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Phân hệ Ghi chỉ số và lập hóa đơn -> Lập hóa đơn phát sinh -> Lập biên bản giao phát hành hóa đơn
+Để ký số Lập bảng kê kiểm soát chỉ số lưu trữ điện tử trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Phân hệ Ghi chỉ số và lập hóa đơn -> In ấn -> Lập bảng kê kiểm soát chỉ số
+Để ký số bảng kê hóa đơn liên 1 lưu trữ điện tử (cấp 1 ký) trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Phân hệ Ghi chỉ số và lập hóa đơn -> In ấn -> Lập bảng kê hóa đơn sau phát hành
+Để kiểm tra, rà soát chỉ số trước khi tính hóa đơn tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|In ấn -> Lập bảng kê kiểm soát chỉ số
+Để kiểm tra, kiểm soát hóa đơn sửa sai sau khi tính hóa đơn tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|In ấn -> Lập bảng kê hóa đơn sai
+Để kiểm tra, kiểm soát hóa đơn sau khi tính hóa đơn tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|In ấn -> Lập bảng kê hóa đơn (kiểm soát sau tính)
+Để kết thúc việc trình diễn trong PowerPoint, ta bấm|Phím ESC
+Để in văn bản theo chiều ngang chúng ta chọn ?|FileYPage SetupYPaper SizeYLandscape
+Để in trang số 3, số 5 và từ trang 10 đến trang 90 của tệp văn bản hiện tại, ta nhập tại mục Pages trên hộp thoại Print như sau:|3, 5, 10-90
+Để In thông báo tiền điện lần 1 tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|In ấn ->Lập thông báo tiền điện lần 1
+Để in lại giấy biên nhận thanh toán trên tiện ích chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Hủy in biên nhận thanh toán
+Để in danh sách điểm đo có nhập chỉ số Pmax trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách điểm đo có nhập Pmax
+Để in danh sách điểm đo chưa nhập chỉ số trong tháng trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách điểm đo chưa nhập chỉ số
+Để in chi tiết thông tin treo tháo của các điểm đo đầu nguồn theo tình trạng trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo chỉ số -> Danh sách chi tiết số ĐN theo tình trạng
+Để in chi tiết khách hàng không có hóa đơn theo khoảng thời gian (từ ngày đến ngày GCS) trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo chi tiết -> Danh sách khách hàng không có hóa đơn
+Để in chi tiết khách hàng có hóa đơn điều chỉnh theo tháng trên chương trình CMIS3.0 người dùng sử dụng chức năng nào?|Báo cáo hóa đơn -> Báo cáo chi tiết -> Báo cáo chi tiết hóa đơn sửa sai
+Để In bảng kê hóa đơn điều chỉnh tại phân hệ Ghi chỉ số và lập hóa đơn trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|In ấn -> Lập bảng kê HDDC
+Để đổi tên Folder / File, ta nhấn phím|F2
+Để định dạng nhanh phân vùng cho đĩa cứng theo định dạng NTFS, trong quá trình cài đặt hệ điều hành cần chọn:|Format the partition using the NTFS file system (quick)
+Để cuộc họp hội nghị truyền hình thành công cần chú các yếu tố gì:|Tất cả đều đúng
+Để có thể đánh được chỉ số dưới, Ví dụ như H2O bạn cần|Bôi đen số 2, nhấn tổ hợp phím Ctrl + =
+Để chương trình MMIS chạy được thì cần phải cài đặt các bước nào sau đây?|Phải thoả mãn tất cả các ý trên
+Để chọn nhiều đối tượng không liên tục trong Windows Explorer, thực hiện:|Giữ phím <Ctrl> và nhấp trái chuột trên các đối tượng cần chọn
+Để chọn cửa sổ của chương trình làm việc trong Windows ta chọn:|Nhấn giữ phím Alt và Tab
+Để cập nhật thông tin trạm, lộ, số hòm, số cột của điểm đo trên chương trình CMIS3.0, người dùng sử dụng chức năng nào?|Phân hệ Quản lý hợp đồng -> Tiện ích thay đổi thông tin điểm đo
+Để bật, tắt chế độ gõ tiếng việt của phần mềm Unikey ta dùng tổ hợp phím nào?|Ctrl + Shift
+Đâu là phần mềm mã nguồn mở có thể thay thế phần mềm Microsoft ofice?|Tất cả các phần mềm trên
+Đáp án nào sau đây đúng? Khi nhập dữ liệu vào bảng tính Excel thì|Dữ liệu kiểu ký tự sẽ mặc định căn lề trái
+Đặc điểm của chương trình VIRUS là gì?|Tất cả các đặc điểm trên.
+Đặc điểm chính của Virus máy tính là:|Cả 3 đáp án trên là đúng
+CPU là gì?|CPU là chữ viết tắt của Central Processing Unit hay còn gọi là bộ xử lý trung tâm. CPU đóng vai trò như não bộ của một chiếc máy tính, tại đó mọi thông tin, thao tác, dữ liệu sẽ được tính toán kỹ lưỡng và đưa ra lệnh điều khiển mọi hoạt động của máy tính.
+Control Panel trong hệ điều hành Windows là gi?|Các ý trên đều đúng.
+Công nghệ Dual Channel được ứng dụng cho thiết bị nào sau đây?|Ram
+Công nghệ điện toán đám mây là gì?|Điện toán đám mây (Cloud computing) có thể hiểu một cách đơn giản là: các nguồn điện toán khổng lồ như phần mềm, dịch vụ... sẽ nằm tại các máy chủ ảo (đám mây) trên Internet thay vì trong máy tính gia đình và văn phòng (trên mặt đất) để mọi người kết nối và sử dụng mỗi khi họ cần.
+Cổng HDMI dùng để kết nối với thiết bị nào sau đây?|Monitor
+Con đường lây lan chủ yếu của virus máy tính là gì?|Tất cả các ý trên
+Có thể thoát chương trình Microsoft Word bằng cách|Tất cả đều đúng
+Có thể khởi động chương trình Microsoft Word bằng cách|Tất cả các phương án trên
+Có thể hồi phục (restore) các tập tin bị xóa khi nhấn phím Delete bằng cách?|Mở Recycle Bin
+Có mấy loại phần mềm?|02: System & Application
+Có mấy loại hệ điều hành?|Có 3 loại: Hệ điều hành đơn nhiệm, Hệ điều hành đa nhiệm và Hệ điều hành đa nhiệm nhiều người sử dụng
+Có mấy loại hệ điều hành (phân loại theo tiêu chí dòng máy)?|02: Client & Server
+Có mấy hệ thống số trên máy tính?|03: Nhị phân - Thập phân - Thập lục phân
+Chuột máy tính không dây thường sử dụng công nghệ nào để kết nối tín hiệu với máy tính?|Bluetooth
+Chương trình nào là chương trình diệt virus|Kaspersky
+Chương trình HRMS 2.0 cho phép người lao động|Tất cả các phương án trên
+Chương trình CNOL hoạt động được trên những thiết bị nào?|Tất cả các thiết bị đã nêu
+Chương trình CNOL có chức năng xem dữ liệu hủy chấm chưa?|Đã có
+Chương trình cho phép định lại cấu hình hệ thống thay đổi môi trường làm việc cho phù hợp là chương trình nào?|Control panel
+Chương trình chấm nợ online có hoạt động được khi không có kết nối mạng internet không?|Được
+Chức năng Set Active trong soft: Acronis Disk Director khi phân vùng ổ cứng có tác dụng:|Xác định phân vùng khởi động
+Chức năng nào sau đây là một trong những chức năng chính của hệ điều hành?|Quản lý thiết bị ngoại vi
+Chức năng Mirror margins trong Page setup\Margins dùng để|In hai mặt trong một tờ giấy
+Chức năng của Ram là gì?|RAM có chức năng là bộ nhớ trung gian của máy tính và các hệ thống điều khiển, để nạp hệ điều hành và lưu trữ các thông tin thay đổi đang sử dụng
+Chức năng của Mainboard là?|Tất cả các chức năng trên
+Chức năng của CPU là?|CPU chịu trách nhiệm xử lý mọi thông tin trong máy tính rồi ra lệnh cho các thành phần khác làm việc
+Chức năng cơ bản của Firewall là:|CN2 và CN 3 là đúng
+Chọn phương án ghép đúng nói về thuật ngữ tin học trong các câu sau : Tin học là ?|Ngành khoa học về xử lý thông tin tự động dựa trên máy tính điện tử.
+Chọn cách đánh mã trạm đúng trong chương trình CMIS?|Đánh mã trạm gồm 09 ký tự trong đó 02 ký tự đầu là mã đơn vị quản lý, ký tự thứ 3 thể hiện loại trạm (C: Công công; D: Chuyên dùng), ký tự thứ 4 thể hiện đối tượng sở hữu (E: Ngành điện; K: Khách hàng), 5 ký tự tiếp theo là tên viết tắt của trạm.
+Cho trước cột “Điểm trung bình” có địa chỉ E1:E10. Để đếm số học sinh có điểm trung bình từ 7 trở lên thì sử dụng công thức nào sau đây:|=COUNTIF(E1 :E10,”>=7”)
+Chỉ ra thao tác đúng để sửa lỗi: “Printer settings could not be saved. Operation could not be completed (error 0x000006d9)”?|Tất cả đều đúng.
+Cách nhận biết khi máy tính bị nhiễm Virus như thế nào?|Tất cả các cách trên.
+Cách bỏ mật khẩu cho user ko phải là ADMINISTRATOR trong windown mà không cần dung phần mềm phá pass?|Bật máy tính lên đồng thời ấn phím F8 liên tục để chọn chế độ khởi Safe mode, đăng nhập windows bằng user administrator rồi tiến hành reset password bị quên
+Các Trạm biến áp phân phối trên lưới điện OMS phát sinh từ nguồn nào?|Cập nhật đồng bộ từ hệ thống CMIS
+Các tiến trình và những ứng dụng chạy ngầm thường được khai báo ở?|C. Registry
+Các phần mềm sau, đâu là phần mềm sử dụng công nghệ điện toán đám mây?|Tất cả các phần mềm đã nêu
+Các kiểu dữ liệu thông dụng của Excel là|Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức
+Các kiểu dữ liệu thông dụng của Excel là :|Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức
+Các chương trình nào không phải là chương trình diệt virus?|Winrar
+Các bạn nhập dữ liệu cho các ô trong Excel nhưng nhiều ô dữ liệu dài nên không hiển thị hết dữ liệu. Chỉ ra cách xuống dòng trong 1 ô Excel:|Cả 2 đáp án
+Bộ nhớ ngoài bao gồm|Đĩa cứng
+Bộ nhớ nào trong các bộ nhớ sau chứa các lệnh và dữ liệu của chương trình đang thực hiện:|RAM
+Bộ nguồn của máy tính sử dụng để chuyển đổi dòng điện dân dụng (wall current) thành loại dòng điện nào?|DC
+Bạn vừa mới kết nối thêm một ổ cứng IDE vào máy PC. Bạn phải thiết đặt với ổ cứng IDE đã có trong PC như thế nào?|Slave
+Bạn sẽ làm gì khi máy tính bị khoá bằng mật khẩu CMOS?|Clear CMOS
+Bạn muốn tăng tốc độ làm việc của máy tính. Cách nào là tốt nhất để nâng cấp?|Add thêm RAM
+Bạn hiểu Virus tin học là gì ?|Tất cả đều đúng
+Bạn hiểu như thế nào là phần mềm mã nguồn mở?|Tất cả các ý trên
+Bạn hiểu Macro Virus là gì ?|Là một loại virus tin học chủ yếu lây lan vào tệp của WinWord và Excel
+Bạn hiểu Macro Virus là gì ?|Là loại virus tin học chủ yếu lây lan vào các tệp của WinWord và Excel
+Bạn hiểu B-Virus là gì ?|Là loại viurs tin học chủ yếu lây lan vào các mẫu tin khởi động (Boot record )
+Bạn đang sử dụng máy tính cài đặt Windows XP và người khác muốn sử dụng máy tính của bạn. Bạn không muốn tắt chương trình nhưng lại phải nhường máy cho người kia ngay lập tức. Bạn cần thực hiện thao tác nào sau đây?|CTRL-ALT-DEL và chọn Switch User
+Bạn đang format một đĩa cứng và thấy thông báo lỗi sector 0 bad, disk not usable. Đâu là nguyên nhân của lỗi này|Ổ cứng bị Bad sector 0, không còn sử dụng được
+Bạn đang format một đĩa cứng và thấy thông báo lỗi sector 0 bad, disk not usable. Đâu là nguyên nhân của lỗi này?|Ổ cứng bị Bad sector 0, không còn sử dụng được
+Bạn có 2 máy tính, 1 máy ở nhà và 1 máy ở cơ quan, muốn có dữ liệu công việc ở 2 máy luôn tự động cập nhật giống nhau thì bạn phải làm thế nào?|Cả 2 phải cài một phần mềm điện toán đám mây (OneDrive, Dropbox...) và cùng đăng nhập chung một tài khoản là được
+Bấm tổ hợp phím Ctrl + X trong chương trình Microsoft Word sẽ thực hiện chức năng gì|Di chuyển đối tượng đang chọn vào bộ nhớ đệm
+Bấm tổ hợp phím Ctrl + V trong chương trình Microsoft Word sẽ thực hiện chức năng gì|Đưa đối tượng (hình ảnh, văn bản, bảng biểu, ...) đang có trong bộ nhớ đếm ra vị trí hiện tại
+Bấm tổ hợp phím Ctrl + U trong chương trình Microsoft Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn|Bật/tắt chữ ghạch chân
+Bấm tổ hợp phím Ctrl + S trong chương trình Microsoft Word sẽ thực hiện chức năng gì|Lưu một tài liệu
+Bấm tổ hợp phím Ctrl + R trong chương trình Microsoft Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn|Bật/tắt căn thẳng lề phải
+Bấm tổ hợp phím Ctrl + O trong chương trình Microsoft Word sẽ thực hiện chức năng gì|Mở một tài liệu có sẵn trong đĩa
+Bấm tổ hợp phím Ctrl + N trong chương trình Microsoft Word sẽ thực hiện chức năng gì|Mở một tài liệu mới
+Bấm tổ hợp phím Ctrl + L trong chương trình Microsoft Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn|Bật/tắt căn thẳng lề trái
+Bấm tổ hợp phím Ctrl + I trong chương trình Microsoft Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn|Bật/tắt chữ nghiêng
+Bấm tổ hợp phím Ctrl + E trong chương trình Microsoft Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn|Bật/tắt căn vào giữa dòng
+Bấm tổ hợp phím Ctrl + C trong chương trình Microsoft Word sẽ thực hiện chức năng gì|Sao chép đối tượng đang chọn vào bộ nhớ đệm
+Bấm tổ hợp phím Ctrl + B trong chương trình Microsoft Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn|Bật/tắt chữ đậm
+Bad sector là?|Chỉ ra những vùng bị lỗi trên ổ đĩa và không thể đọc được tại các vị trí đó
+Anh/Chị hãy cho biết nội dung Ứng xử tôn trọng và công bằng với người lao động được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Tuân thủ và chấp hành được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Trung thực và tin cậy được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Tôn trọng và thiện chí với đối tác được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Thực hiện đúng quy định về đầu mối cung cấp thông tin và phát ngôn về hoạt động của EVN được quy địnhtrong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Tận dụng sức mạnh của công nghệ và dữ liệu được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 03 đáp án trên
+Anh/Chị hãy cho biết nội dung Sống trọng nghĩa, trọng tình với đồng chí, đồng nghiệp được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Quan tâm và gắn kết các đơn vị được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Đối với quảng cáo được quy địnhtrong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Đề cao hiệu quả công việc và tinh thần làm việc nhóm được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 03 đáp án trên
+Anh/Chị hãy cho biết nội dung Đào tạo phát triển toàn diện người lao động được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung của tiêu chí tôn trọng nhân phẩm và quyền con người được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung của tiêu chí Tôn trọng khách hàng, đối tác và cộng đồng được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung của tiêu chí Chấp nhận sự khác biệt và đa dạng được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Chủ động học hỏi, thích ứng nhanh với sự thay đổi được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 03 đáp án trên
+Anh/Chị hãy cho biết nội dung chia sẻ và hợp tác với nhau trong nội bộ được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Chăm lo sức khoẻ và đời sống của người lao động được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung Biết nói lời cảm ơn và xin lỗi được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 bao gồm?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết để tránh xung đột lợi ích được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì cần phải làm gì?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết để thực hiện Nói đi đôi với làm được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì cần phải làm gì?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết để nêu cao ý thức về công tác an toàn được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì cần phải làm gì?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết để Đảm bảo an toàn cho người lao động được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì cần phải làm gì?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết để Đảm bảo an toàn cho khách hàng và cho cộng đồng được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì cần phải làm gì?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết để Đảm bảo an toàn cho các hệ thống kỹ thuật được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023 thì cần phải làm gì?|Cả 02 đáp án trên
+Anh/Chị hãy cho biết nội dung đúng nhất trong quy định về Nghi thức giới thiệu đã được quy định trong Bộ quy tắc ứng xử văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2023?|Cả 03 đáp án trên
+Theo Anh/chị Ý nghĩa Đoàn kết trong các Chuẩn mực đạo đức nghề nghiệp của EVN được quy định tại trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|Sức mạnh trong mọi hoạt động của EVN là tinh thần đoàn kết và trí tuệ tập thể. EVN phục vụ và đóng góp cho xã hội, cho nền kinh tế bằng kinh nghiệm và sự sáng tạo, bằng trí tuệ con người kết hợp với công nghệ hiện đại. EVN coi tinh thần đoàn kết, hợp tác và lao động sáng tạo là sức mạnh tổng hợp để đạt được các mục tiêu đề ra. 
+Theo Anh/chị có mấy cam kết của EVN "Vì niềm tin của cộng đồng" trong Các cam kết của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|03
+Theo Anh/chị có mấy điều cần làm để đạt được giá trị chuẩn mực “Trung thực” trong Các giá trị chuẩn mực đạo đức nghề nghiệp của người EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|04
+Ý nào là ý đúng trong Ý nghĩa Trách nhiệm trong các Giá trị cốt lõi của EVN được quy định tại trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|Phương châm hành động chủ đạo của EVN là làm tròn nghĩa vụ với tư cách là một tập đoàn kinh tế quan trọng của nền kinh tế và của quốc gia, chịu trách nhiệm chính trong việc đảm bảo điện cho nền kinh tế và đời sống của nhân dân. 
+Sứ mệnh hoạt động của Tập đoàn Điện lực Việt Nam trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là gì?|Cung cấp điện với chất lượng và dịch vụ ngày càng tốt hơn, đảm bảo trách nhiệm với môi trường và cộng đồng
+Theo Anh/chị có mấy điều cần làm để đạt được giá trị chuẩn mực “Nhân văn” trong Các giá trị chuẩn mực đạo đức nghề nghiệp của người EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|05
+Theo Anh/chị có mấy điều cần làm để đạt được giá trị chuẩn mực “Minh bạch” trong Các giá trị chuẩn mực đạo đức nghề nghiệp của người EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 ?|05
+Theo Anh/chị có mấy điều cần làm để đạt được tinh thần trách nhiệm trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|07 
+Theo Anh/chị Ý nghĩa Tôn trọng trong các giá trị chuẩn mực hành vi ứng xử chung của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|Tôn trọng là nền tảng cơ bản của các mối quan hệ với các bên liên quan, EVN tôn trọng khách hàng, đối tác và người lao động, từ đó thiết lập và duy trì các mối quan hệ cộng tác chặt chẽ, chất lượng và chuyên nghiệp. 
+Theo Anh/chị có mấy cam kết của EVN "Vì sự bền vững của môi trường" trong Các cam kết của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|04 
+Theo Anh/chị có mấy điều cần làm để đạt được chất lượng trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|05
+Theo Anh/chị có mấy nguyên tắc cơ bản trong thực thi văn hóa EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|05
+Theo Anh/chị Ý nghĩa Tận tâm trong các giá trị chuẩn mực hành vi ứng xử chung của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|Tận tâm là tinh thần làm việc tâm huyết với mong muốn được cống hiến hết sức, hết lòng vì công việc, vì sự hài lòng của khách hàng, vì lợi ích của EVN và của đất nước. Chúng ta làm việc vì mục đích, kết quả đạt được của công việc và qua đó nhận thấy được giá trị của bản thân mình trong niềm vui, sự thành công của khách hàng
+Theo Anh/chị có mấy điều cần làm để thể hiện niềm tin trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|05
+Theo Anh/chị Ý nghĩa Trung thực đúng trong các Chuẩn mực đạo đức nghề nghiệp của EVN được quy định tại trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|Để xây dựng niềm tin vững chắc của mọi người đối với EVN và niềm tin trong nội bộ, EVN đề cao tính trung thực trong lời nói và hành động, trong quan hệ nội bộ cũng như trong quan hệ với khách hàng, đối tác và cộng đồng xã hội.
+Theo Anh/chị có mấy ý nghĩa của niềm tin trong các giá trị cốt lõi của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|05
+Theo Anh/chị Ý nghĩa Nghĩa tình trong các giá trị chuẩn mực hành vi ứng xử chung của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022 là?|EVN nhận thức sâu sắc rằng: nếu không có thế hệ đi trước hy sinh vì Tổ quốc và cống hiến hết mình cho sự nghiệp ngành điện, sẽ không thể có EVN ngày hôm nay; không có sự đóng góp thầm lặng của từng người lao động thì không thể có được sự thành công của EVN. Do vậy, EVN tin tưởng rằng: sống có nghĩa, có tình không chỉ là điều cần phải làm mà còn là nguồn sức mạnh, là động lực giúp EVN luôn vượt qua mọi trở ngại trên con đường chúng ta đi. 
+Theo Anh/chị có mấy cam kết của EVN "Vì niềm tin của cộng đồng" trong Các cam kết của EVN được quy định trong Tài liệu Văn hóa Tập đoàn Điện lực Việt Nam ban hành năm 2022?|03
 
